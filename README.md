@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a7med-nazeer/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-square&logo=Facebook&logoColor=white)](https://www.facebook.com/a7mad.nazeer/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/a7med_nazeer)
-[![YouTube](https://img.shields.io/badge/Ahmed%20Saed-%23FF0000.svg?style=for-the-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC0zNgCmEE7tZ5E1fql4FYEg)
+[![YouTube](https://img.shields.io/badge/Ahmed%20Nazeer-%23FF0000.svg?style=for-the-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC0zNgCmEE7tZ5E1fql4FYEg)
 
 I'm a **Computer Science Student** at Misr University For Science and Technology **(MUST)** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to **explore new technologies** and leverage them to **solve real-life problems** ✨. I'm currently into **Artificial Intelligence** 🤖 and I also do some **Web Development** 🕸️ and Most of the time I do **problem solving** by coding. I took trainings in **Software Engineering** and aspire to do more every day with new motives with **more experiences**. 🤖 
+<br>
 <br>
   
 👨‍💻 Talking about me:  
@@ -51,6 +52,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 <!-- <code><a href="https://www.hackerrank.com/EyadAlmallah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahd_seddik02" height="30" width="40" /></a></code>	 -->
  </details>
  <br>
+ <br>
   
   
 ⚡ GitHub Stats:
@@ -62,17 +64,19 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
   <img align="center" height="130em" src="https://github-readme-stats-khaki-six.vercel.app//api/top-langs/?username=a7mednazeer&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game&hide=html,Jupyter%20Notebook,makefile,css,makefile,Roff" />
 </a>
 </div>
+<br>
   
   
   
 ☄️ Github Streaks:
 <div align="center">
-	<a href="https://github.com/a7mednazeer">
-	  <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=a7mednazeer&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-	</a>
+<a href="https://github.com/a7mednazeer">
+<img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=a7mednazeer&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
 </div>
 <br>
 <details>	
+<br>
 <br>
 	
 <summary><b>⚙️ My Workflow And Tools</b></summary>
