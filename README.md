@@ -22,17 +22,24 @@ Here are some ideas to get you started:
 
 <!-- <h1 align="center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I am [Ahmed Nazeer](https://github.com/a7mednazeer)</h1> -->
 
-### Hi there 👋🏻
+# Hi there 👋🏻
 ## I am [Ahmed Nazeer ](https://github.com/a7mednazeer)	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a7med-nazeer/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-square&logo=Facebook&logoColor=white)](https://www.facebook.com/a7mad.nazeer/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/a7med_nazeer)
-[![YouTube](https://img.shields.io/badge/Ahmed%20Nazeer-%23FF0000.svg?style=for-the-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC0zNgCmEE7tZ5E1fql4FYEg)
 
-I'm a **Computer Science Student** at Misr University For Science and Technology **(MUST)** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to **explore new technologies** and leverage them to **solve real-life problems** ✨. I'm currently into **Artificial Intelligence** 🤖 and I also do some **Web Development** 🕸️ and Most of the time I do **problem solving** by coding. I took trainings in **Software Engineering** and aspire to do more every day with new motives with **more experiences**. 🤖 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7med-nazeer/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/a7mad.nazeer/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a7med_nazeer/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/a7med_nazeer)
+[![Telegram](https://img.shields.io/badge/Telegram-3A76F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/a7med_nazeer)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC0zNgCmEE7tZ5E1fql4FYEg)
+<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit)](https://discord.com/channels/@me) -->
+<!-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a7mednazeer) -->
+<!-- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)]() -->
 <br>
-<br>
-  
+
+I'm a **Computer Science Student** at Misr University For Science and Technology **(MUST)** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to **explore new technologies** and leverage them to **solve real-life problems** ✨. I'm currently into **Artificial Intelligence** 🤖 and I also do some **Web Development** 🕸️ and Most of the time I do **problem solving** by coding. I took trainings in **Software Engineering** and aspire to do more every day with new motives with **more experiences**.
+<br><br><br><br>
+
+
 👨‍💻 Talking about me:  
 <img align="right" width="400" alt="" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 
@@ -41,16 +48,18 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 - 🔭 I’m currently working on my personal Skills 
 - 🌱 I’m currently learning AI/ML
 - 👀 I’m interested in Bacd-end Development 
-- 📫 How to reach me: ahmeed.m.nazeer.18@gmail.com
+- 📫 How to reach me: ahmed.m.nazeer.18@gmail.com
   
   
-<br>  
+<br> 
+<div>
 <details open><summary><h3 align="center">🌐 Connect with me:</h3></summary>
-<code><a href="https://www.linkedin.com/in/a7med-nazeer/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="40" /></a></code>
-<code><a href="https://codeforces.com/profile/a7med_nazeer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midniterayz" height="30" width="40" /></a></code>
-<code><a href="https://leetcode.com/a7med_nazeer/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="40" /></a></code>
+<code><a href="https://www.linkedin.com/in/a7med-nazeer/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="50" /></a></code>
+<code><a href="https://codeforces.com/profile/a7med_nazeer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midniterayz" height="30" width="50" /></a></code>
+<code><a href="https://leetcode.com/a7med_nazeer/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="50" /></a></code>
 <!-- <code><a href="https://www.hackerrank.com/EyadAlmallah" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahd_seddik02" height="30" width="40" /></a></code>	 -->
  </details>
+</div>
  <br>
  <br>
  <br>
@@ -75,10 +84,10 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 </a>
 </div>
 <br>
+<br>
+
 <details>	
-<br>
-<br>
-	
+<br><br>	
 <summary><b>⚙️ My Workflow And Tools</b></summary>
   	<ul>
   	  <li><b>OS:</b> Windows 11</li>
@@ -88,4 +97,4 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 	    <li><b>Code Editor:</b> VS CODE </li>
 	  </ul>	
 </details>
-  <br/>
+<br>
