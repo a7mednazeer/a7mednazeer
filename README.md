@@ -44,7 +44,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 <img align="right" width="400" alt="" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
 
 
-- 🛠 I’m currently working with C++, Python and a little bit with java
+- 🛠 I’m currently working with C++, Python and a little bit with java.
 - 🔭 I’m currently working on my personal Skills 
 - 🌱 I’m currently learning AI/ML
 - 👀 I’m interested in Bacd-end Development 
