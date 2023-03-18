@@ -53,7 +53,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
  </details>
  <br>
  <br>
-  
+ <br>
   
 ⚡ GitHub Stats:
 <div align="center">
@@ -65,7 +65,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 </a>
 </div>
 <br>
-  
+<br>
   
   
 ☄️ Github Streaks:
