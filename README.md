@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">~ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I am [Ahmed Nazeer](https://github.com/a7mednazeer)</h1> -->
 
 # Hi there 👋🏻
-## I am [Ahmed Nazeer ](https://github.com/a7mednazeer)	
+## I'm [Ahmed Nazeer ](https://github.com/a7mednazeer)	
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a7med-nazeer/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/a7mad.nazeer/)
