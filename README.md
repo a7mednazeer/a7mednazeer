@@ -95,7 +95,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 	    <li><b>Laptop: </b> Lenovo Legion 5 </li>
 	    <li><b>PC: </b> Intel Core I7, 16GB Ram, GTX 1660 TI </li>
   	  <li><b>Browser: </b> Microsoft Edge </li>
-	    <li><b>Code Editor:</b> VS CODE </li>
+	    <li><b>Code Editor:</b> VS Code </li>
 	  </ul>	
 </details>
 <br>
