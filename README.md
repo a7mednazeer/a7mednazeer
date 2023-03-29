@@ -86,10 +86,16 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 </div>
 <br>
 <br>
-
+<!-- <div align="center">
+	<img align="center" width="250em" height="250em" src="https://37.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" />
+	</div> -->
 <details>	
 <br><br>	
 <summary><b>⚙️ My Workflow And Tools</b></summary>
+<!-- 	<div>
+	<img align="right" width="250em" height="170em" alt="" src="https://37.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" />
+ 	<img align="center" width="250em" height="250em" src="https://37.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" />
+	</div> -->
   	<ul>
   	  <li><b>OS:</b> Windows 11</li>
 	    <li><b>Laptop: </b> Lenovo Legion 5 </li>
