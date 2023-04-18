@@ -42,8 +42,8 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 
 👨‍💻 Talking about me:  
-<img align="right" width="400" alt="" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" />
-
+<!-- <img align="right" width="400" alt="" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" /> -->
+<img align="right" width="450" height="250" alt="" src="https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif" />
 
 - 🛠 I’m currently working with C++, Python and java.
 - 🔭 I’m currently working on my personal Skills. 
