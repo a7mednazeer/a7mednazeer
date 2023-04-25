@@ -65,7 +65,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
  <br>
  <br>
 
-
+<!-- 
 📈 &nbsp;GitHub History
 
 ![Snake animation](https://github.com/a7mednazeer/a7mednazeer/blob/output/github-contribution-grid-snake.svg)
@@ -78,6 +78,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
  <br>
  <br>
  <br>
+  -->
  
 ⚡ GitHub Stats:
 <div align="center">
