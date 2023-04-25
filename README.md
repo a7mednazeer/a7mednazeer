@@ -66,7 +66,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
  <br>
 
 
-📈 &nbsp;My GitHub History!</h2>
+📈 &nbsp;GitHub History
 
 ![Snake animation](https://github.com/a7mednazeer/a7mednazeer/blob/output/github-contribution-grid-snake.svg)
   
