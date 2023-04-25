@@ -64,7 +64,21 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
  <br>
  <br>
  <br>
+
+
+📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/a7mednazeer/a7mednazeer/blob/output/github-contribution-grid-snake.svg)
   
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+ 
+ <br>
+ <br>
+ <br>
+ 
 ⚡ GitHub Stats:
 <div align="center">
 <a href="https://github.com/a7mednazeer">
@@ -88,7 +102,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 <br>
 <!-- <div align="center">
 	<img align="center" width="250em" height="250em" src="https://37.media.tumblr.com/7504e68a66376f5e2a7d6c443fd15856/tumblr_n9cmvzeGsf1rhfekio1_500.gif" />
-	</div> -->
+	</div> -->	
 <details>	
 <br><br>	
 <summary><b>⚙️ My Workflow And Tools</b></summary>
