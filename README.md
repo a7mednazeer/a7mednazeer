@@ -57,8 +57,8 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 <details open><summary><h3 align="center">🌐 Connect with me:</h3></summary>
 <code><a href="https://www.linkedin.com/in/a7med-nazeer/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd-seddik" height="30" width="50" /></a></code>
 <code><a href="https://codeforces.com/profile/a7med_nazeer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="midniterayz" height="30" width="50" /></a></code>
-<code><a href="https://leetcode.com/a7med_nazeer/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="50" /></a></code>
 <code><a href="https://www.hackerrank.com/a7med_nazeer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fahd_seddik02" height="30" width="40" /></a></code>	
+<code><a href="https://leetcode.com/a7med_nazeer/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midniterayz" height="30" width="50" /></a></code>
 </details>
 </div>
  <br>
