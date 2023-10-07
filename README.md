@@ -47,7 +47,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 
 - 🛠 I’m currently working with C++, Python and java.
 - 🔭 I’m currently working on my personal Skills. 
-- 🌱 I’m currently learning Bacd-end Development. 
+- 🌱 I’m currently learning Back-end Development. 
 - 👀 I’m interested in AI, ML and DL. 
 - 📫 How to reach me: ahmed.m.nazeer.18@gmail.com
   
