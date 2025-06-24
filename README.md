@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <!-- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)]() -->
 <br>
 
-I'm a **Computer Science Student** at Misr University For Science and Technology **(MUST)** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to **explore new technologies** and leverage them to **solve real-life problems** ✨. I'm currently into **Artificial Intelligence** 🤖 and I also do some **Web Development** 🕸️ and Most of the time I do **problem solving** by coding. I took trainings in **Software Engineering** and aspire to do more every day with new motives with **more experiences**.
+I'm a **Computer Science Graduate** from Misr University For Science and Technology **(MUST)** 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to **explore new technologies** and leverage them to **solve real-life problems** ✨. I'm currently into **Flutter** and **Artificial Intelligence** 🤖 and I also do some **Web Development** 🕸️ and Most of the time I do **problem solving** by coding. I took trainings in **Software Engineering** and aspire to do more every day with new motives with **more experiences**.
 <br><br><br><br>
 
 
@@ -45,7 +45,7 @@ I'm a **Computer Science Student** at Misr University For Science and Technology
 <!-- <img align="right" width="400" alt="" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" /> -->
 <img align="right" width="400" height="250" alt="" src="https://miro.medium.com/max/2878/0*M50IPKZz58Fyy178.gif" />
 
-- 🛠 I’m currently working with C++, Python and java.
+- 🛠 I’m currently working with Dart, C++ and Python.
 - 🔭 I’m currently working on my personal Skills. 
 - 🌱 I’m currently learning Back-end Development. 
 - 👀 I’m interested in AI, ML and DL. 
